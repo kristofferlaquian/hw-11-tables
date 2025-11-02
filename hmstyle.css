@@ -1,0 +1,27 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    border: 1px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+tbody td {
+    border: 1px solid black;
+}
+
+table, td, tr, th {
+    padding: 5px;
+    border-collapse: collapse;
+}
+td {
+    text-align: center;
+}
+thead th {
+    background-color: lightgrey;
+}
+tbody th {
+    background-color: black;
+    color: white;
+}
